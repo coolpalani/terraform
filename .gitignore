@@ -1,0 +1,3 @@
+secrets/DO_TOKEN
+terraform.tfstate*
+.terraform
